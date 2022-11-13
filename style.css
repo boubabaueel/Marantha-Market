@@ -8,6 +8,15 @@ background-color: #656c66db;
         margin: 10px;
       
    }
+   .nav-logo {
+    font-size: 1.7rem;
+   color:  rgb(255, 255, 255);
+   text-decoration: none;
+   background-color: #c55454d2;
+   padding: 10px 20px 10px 20px;
+   margin: 10px;
+
+}
    .khome{background-image: url(background.jpg);
     background-attachment:fixed;
     background-position: center;
@@ -24,7 +33,7 @@ background-color: #656c66db;
     padding: 20px;
    }
    .welcome{
-    color: #fc5555;
+    color: #ffffff;
    }
    .ka{
     color: rgb(255, 106, 0);
@@ -44,13 +53,7 @@ background-color: #656c66db;
 
 
    }
-   h4{
-    color: #f73e00a0;
-    background-color: #e1c80cd9;
-    margin: 2px;
-    
-    padding: 15px;
-   }
+  
     img{width: 100%;
     padding-top: 10px;
 }
@@ -59,11 +62,11 @@ background-color: #656c66db;
         padding: 15px;
         color:#ffffff;
         font-size: 20px;
-        text-shadow: #a81d1d;
+        
         border: #1c16167e;
     border-style: solid;
         text-align: center;
-        background-color: #8d636368;
+        background-color: #c55454d2;
         
     }
 #thankyou{
@@ -137,7 +140,7 @@ background-color: #656c66db;
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #c16e4b;
+        background-color: #030303;
     }
     .nav-menu {
         display: flex;
@@ -163,12 +166,7 @@ background-color: #656c66db;
         
     }
     
-    .nav-logo {
-         font-size: 1.7rem;
-        /* font-weight: 100px; */
-        color:  rgb(255, 106, 0);
-        text-decoration: none;
-    }
+  
     .nav-menu {
         position: fixed;
         left: -100%;
@@ -361,7 +359,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #ff0c0c;
+        background-color: #000000;
     }
     .nav-menu {
         display: flex;
@@ -387,11 +385,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
         
     }
     
-    .nav-logo {
-        font-size: 1.7rem;
-        color:  rgb(255, 106, 0);
-        text-decoration: none;
-    }
+    
     .nav-menu {
         position: fixed;
         left: -100%;
@@ -599,7 +593,7 @@ text-align: center;}
         display: none;
     }
 .nav-a{margin: 30px 10px 30px 10px;
-    background-color: #c64545cd;
+    background-color: #ba7575cd;
 }
 .hambuger{display: none;}
 .nav{
@@ -617,7 +611,7 @@ text-align: center;}
     text-align: center;
 }
 .nav li a{
-    color: rgb(14, 255, 215);
+    color: rgb(255, 255, 255);
 
     text-decoration: none;
     font-size: 30px;
