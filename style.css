@@ -1,6 +1,6 @@
 .img-w{display: grid;
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-background-color: #656c6667;
+background-color: #656c66db;
 }
     
     .bo{ 
@@ -20,7 +20,7 @@ background-color: #656c6667;
    }
    .wel{
     text-align: center;
-    background-color: rgba(210, 183, 183, 0.288);
+    background-color: rgba(38, 28, 28, 0.828);
     padding: 20px;
    }
    .welcome{
@@ -237,37 +237,13 @@ background-color: #656c6667;
 .veh{ line-height: 2em;
    }
 
-.footer{background:gray ;
-	margin: 30px 0px 2px 0px;
-}
+
 
 .about{
     
     padding: 20px 20px;
 }
-.mission{
-   padding: 20px 20px;
-}
 
-.ql{text-align: center;
-	list-style: none;
-
-}
-.ql > li {
-	padding: 5px ;
-	font: 2em;
-	color: white;
-}
-.ql > li > a {text-decoration: none;
-	color: white;
-	padding-right: 10%;
-}
-
-
-
-.quick-link{
-	color: cornflowerblue;
-}
 
 
 .h{color: white;
@@ -282,14 +258,15 @@ background-color: #656c6667;
     grid-template-columns: repeat(3,1fr) ;
     grid-template-rows:repeat(3,minmax(150px,auto)) ;
     max-width: 1200px;
-    background-color: rgba(107, 103, 103, 0.524);
+    background-color: rgba(107, 103, 103, 0.856);
 }
 #home{
-    background-image: url(kalahari.jpg);
-    background-size: 100%;
-    background-position: 0%;
+    background-image: url(mar.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    
    
 
 }
@@ -512,11 +489,11 @@ padding: 0 20px;}
     background-color: rgba(107, 103, 103, 0.524);
 }
 #home{
-     background-image: url(kalahari.jpg);
-    background-size: 100%;
-    background-position: 0%;
+    background-image: url(mar.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
    
 
 
@@ -706,14 +683,14 @@ margin: 0px 0px 0px 100px;
     grid-template-columns: repeat(6,2fr) ;
     grid-template-rows:repeat(3,minmax(150px,auto)) ;
     max-width: 100%;
-    background-color: rgba(107, 103, 103, 0.524);
+    background-color: rgba(107, 103, 103, 0.749);
 }
 #home{
-    background-image: url(kalahari.jpg);
-    background-size: 100%;
-    background-position: 0%;
+    background-image: url(mar.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
    
 
 }
