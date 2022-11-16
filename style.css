@@ -11,7 +11,7 @@ background-color: #656c66db;
 }
     .bo{ 
         padding: 10px;
-        margin: 10px;
+        margin: 5px;
       
    }
    .nav-logo {
@@ -276,6 +276,9 @@ background-color: #656c66db;
 }
 #contact,#contact-title{
     text-align:center;
+    margin: 10px;
+    border-color: #9d4040;
+    box-sizing: border-box;
 }
 
 .box{
