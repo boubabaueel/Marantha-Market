@@ -2,7 +2,13 @@
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
 background-color: #656c66db;
 }
+.contact-title{
+    background-color: #e05151;
+    padding: 10px;
+    margin: 10px;
+    color:white ;
     
+}
     .bo{ 
         padding: 10px;
         margin: 10px;
