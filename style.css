@@ -15,6 +15,15 @@ background-color: #656c66db;
       
    }
 
+   .a-headimg{
+    background-attachment:initial;
+       margin-top: 10px;
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+     
+       background-image: url(mar.jpg);
+   }
    .b-headimg{
     background-attachment:initial;
        margin-top: 10px;
@@ -126,8 +135,7 @@ background-color: #656c66db;
     }
     .wrapper-a{
       
-        font-family: Arial, Helvetica, sans-serif;
-        background-color: rgba(133, 120, 120, 0.202);
+     
      }
 
 
