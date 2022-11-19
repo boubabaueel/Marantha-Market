@@ -64,14 +64,15 @@ background-color: #656c66db;
     padding-top: 10px;
 }
     .work{
-        font-family: sans-serif;
         padding: 15px;
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
         color:#ffffff;
         font-size: 20px;
-        
         border: #1c16167e;
     border-style: solid;
-        text-align: center;
+        text-align: center; 
         background-color: #c55454d2;
         
     }
