@@ -9,6 +9,10 @@ background-color: #656c66db;
     color:white ;
     
 }
+.contac{
+    text-decoration: none;
+    color: #ffae00;
+}
     .bo{ 
         padding: 10px;
         margin: 5px;
@@ -22,7 +26,7 @@ background-color: #656c66db;
        background-size: cover;
        background-repeat: no-repeat;
      
-       background-image: url(mar.jpg);
+       background-image: url(spices.jpg);
    }
    .b-headimg{
     background-attachment:initial;
