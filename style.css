@@ -3,8 +3,9 @@
 background-color: #656c66db;
 }
 .contact-title{
-    background-color: #e05151;
+    background-color: #131d2aba;
     padding: 10px;
+    font-size: 10px;
     margin: 10px;
     color:white ;
     
@@ -137,10 +138,7 @@ background-color: #656c66db;
     .contact{
         text-align: center;
     }
-    .wrapper-a{
-      
-     
-     }
+    
 
 
 
@@ -331,6 +329,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
 
 .box > button{
     width: 300px;
+    font-weight: bolder;
     height: 30px;
     background:rgb(6, 40, 61) ;
     transition: 0.25s;
