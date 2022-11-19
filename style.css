@@ -14,6 +14,16 @@ background-color: #656c66db;
         margin: 5px;
       
    }
+
+   .b-headimg{
+    background-attachment:initial;
+       margin-top: 10px;
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+     
+       background-image: url(produce.jpg);
+   }
    .nav-logo {
     font-size: 1.7rem;
    color:  rgb(255, 255, 255);
