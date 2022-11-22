@@ -48,14 +48,16 @@ h4{
        background-image: url(produce.jpg);
    }
    .nav-logo {
-    font-size: 20px;
-    width: 70%;
+    
+    font-size: 1.3rem;
+    color: #af2121;
+        text-decoration: none;
    color:  rgb(255, 255, 255);
-   text-decoration: none;
-   background-color: #c55454d2;
-   padding: 10px 20px 10px 20px;
- 
 
+}
+.header{background-color: #0d2a2f;
+    margin-bottom: 10px;
+    
 }
    .khome{background-image: url(background.jpg);
     background-attachment:fixed;
