@@ -179,7 +179,7 @@ h4{
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #726b6b;
+        background-color: #ffffff;
     }
     .nav-menu {
         display: flex;
@@ -402,7 +402,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #000000;
+        background-color: #ffffff;
     }
     .nav-menu {
         display: flex;
@@ -653,7 +653,7 @@ text-align: center;}
         margin: 5px auto;
         -webkit-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
-        background-color: #000000;
+        background-color: #ffffff;
     }
     .nav-menu {
         display: flex;
