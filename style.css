@@ -35,8 +35,8 @@ h4{
        background-position: center;
        background-size: cover;
        background-repeat: no-repeat;
-     
-       background-image: url(spices.jpg);
+     max-height: 200px;
+       background-image: url(mar.jpg);
    }
    .b-headimg{
     background-attachment:initial;
@@ -143,6 +143,7 @@ h4{
     }
     .psa{
         padding: 0 5%;
+        
     }
     .info{
         text-align: center;
@@ -381,7 +382,13 @@ font-family:Georgia, 'Times New Roman', Times, serif
 
 /*TABLET MEDIA QUERY*/
 @media screen and (min-width: 600px) and (max-width: 769px){
-    
+    .psa{
+        padding: 0 5%;
+        
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
+    }
     .header{
         border-bottom: 1px solid #E2E8F0;
     }
@@ -632,7 +639,13 @@ text-align: center;}
 
 /*DESKTOP MEDIA QUERY*/
 @media screen and (min-width:769px) {
-    
+    .psa{
+        padding: 0 5%;
+        
+        margin-left: 20%;
+        text-align: center;
+        max-width: 60%;
+    }
     .header{
         border-bottom: 1px solid #E2E8F0;
     }
