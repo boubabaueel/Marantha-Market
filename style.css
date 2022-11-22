@@ -11,6 +11,17 @@ background-color: #f1f6f2e2;
     color:white ;
     
 }
+.ebt-headimg{
+    background-image: url(ebt.jpg);
+    background-attachment:contain;
+       margin-top: 10px;
+       background-position: center;
+       background-size: contain;
+       background-repeat: no-repeat;
+       max-height: 100px;
+
+      
+}
 h4{
     color: #fffffff2;
     background-color: #22405bbb;
@@ -478,6 +489,7 @@ font-family:Georgia, 'Times New Roman', Times, serif
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
+    
     
 .wrapper {
     display: grid;
