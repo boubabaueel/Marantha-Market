@@ -3,6 +3,15 @@
 background-color: #f1f6f2e2;
 
 }
+.footer{
+    background-color:#f1f6f2e2 ;
+    padding: 10px;
+margin-top: 10px;
+}
+.foot{
+font-size: 12px;
+text-align: center;
+}
 .contact-title{
     background-color: #131d2aba;
     padding: 10px;
